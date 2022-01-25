@@ -1,5 +1,5 @@
 '''
-Analysis poltical geogrpahies to determin if there is Racial Polirizing Voting
+Analysis poltical geogrpahies to determin if there is Racial Polarized Voting
 
 Usage:
 --------------
