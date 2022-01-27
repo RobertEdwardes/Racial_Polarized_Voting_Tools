@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 3 :: Only',
     ],
     packages=find_packages(where='src'), 
-    python_requires='>=3.6, <4',
+    python_requires='>=3.7, <4',
     install_requires=['pandas','matplotlib','statsmodels'], 
     package_dir={'': 'src'},
 )
